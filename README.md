@@ -21,8 +21,8 @@ Desafio de Phishing para captura de senhas do Instagram na Formação Cybersecur
 ![Alt text](./phishing.png "Optional title")
 
 Foram encontrados:
-username: mariajose
-password: 123456
+- username: mariajose
+- password: 123456
 
 
 
